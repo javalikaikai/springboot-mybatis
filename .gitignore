@@ -1,8 +1,58 @@
 # Created by .ignore support plugin (hsz.mobi)
 /target/
+<<<<<<< HEAD
 test.txt
 .settings/org.eclipse.m2e.core.prefs
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.core.resources.prefs
 .project
 .classpath
+=======
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+Thumbs.db
+
+# Eclipse Files
+.settings/
+.project
+.classpath
+pulin-pro/src/main/res/db.properties
+pulin-pcs/src/main/resources/db.properties
+spring-redis.xml
+pcs.xml
+
+# Idea Files
+.idea/
+.iml/
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Package Files #
+*.war
+*.ear
+
+# build dir
+.gradle/
+build/
+target/
+bin/
+
+# Others
+hs_err_pid*
+*.log
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+.svn/
+*.jks
+/data
+
+test.txt
+>>>>>>> dev
