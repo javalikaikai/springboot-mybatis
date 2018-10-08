@@ -1,13 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /target/
-<<<<<<< HEAD
-test.txt
-.settings/org.eclipse.m2e.core.prefs
-.settings/org.eclipse.jdt.core.prefs
-.settings/org.eclipse.core.resources.prefs
-.project
-.classpath
-=======
+
 # Folder view configuration files
 .DS_Store
 Desktop.ini
@@ -54,5 +47,5 @@ hs_err_pid*
 *.jks
 /data
 
+
 test.txt
->>>>>>> dev
